@@ -9,3 +9,4 @@ fn main() {
 fn call_me() {
     println!("hey");
 }
+rustlings run myExercise1
